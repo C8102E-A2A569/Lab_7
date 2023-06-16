@@ -1,0 +1,2 @@
+execute_script D:\Documents\ITMO\2_sem\programming\lab_6\lab_6\recursive-script.txt
+show

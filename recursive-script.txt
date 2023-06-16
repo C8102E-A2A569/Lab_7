@@ -1,0 +1,4 @@
+max_by_id
+count_by_form_of_education DISTANCE_EDUCATION
+
+
